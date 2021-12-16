@@ -27,6 +27,7 @@ public class PlayAudio {
                 public void onCompletion(MediaPlayer mediaPlayer) {
                     stopPlaying();
                     //wowser
+                    //cool stuff
                     isPlaying = false;
 
                 }
